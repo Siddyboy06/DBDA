@@ -6,5 +6,5 @@
     {"id":5,"title":"Marigold", "description":"Festival Flower", "unitprice":10, "quantity":5000,"imageurl":"/images/marigold.jpg"},
     {"id":6,"title":"kamal", "description":"Worship Flower", "unitprice":2, "quantity":7000,"imageurl":"/images/lotus.jpg"},
     {"id":7,"title":"Dahlia", "description":"Exotic Flower", "unitprice":2, "quantity":3500,"imageurl":"/images/dahlia.jpg"},
-    {"id":8,"title":"Rose", "description":"Valentine Flower", "unitprice":2, "quantity":4200,"imageurl":"/images/rose.jpg"}
+    {"id":8,"title":"Gulab", "description":"Valentine Flower", "unitprice":2, "quantity":4200,"imageurl":"/images/rose.jpg"}
 ]
